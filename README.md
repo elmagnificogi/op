@@ -6,8 +6,13 @@
 Overview
 ===========
 
-OP(operator & open)是一个开源插件(类似大漠插件).主要功能有:Windows消息模拟,后台截图，找图,字符识别(OCR)等。使用c++编写，源代码可编译为32/64位dll.op插件提供了两类接口:1）原生c++接口，可以让c/c++开发者方便调用；2）com接口，支持大多数编译型语言(c++,c#,vb,delphi等 以及脚本语言（python,lua等）的调用
+operator & open是一个开源插件(类似大漠插件).主要功能有:Windows消息模拟,后台截图，找图,字符识别(OCR)等。使用c++编写，源代码可编译为32/64位dll.op插件提供了两类接口:1. 原生c++接口，可以让c/c++开发者方便调用；2. com接口，支持大多数编译型语言，比如：c#,vb,delphi以及脚本语言python,lua等的调用
+
+
+
 ![ava](doc/class_struct.svg)
+
+
 
 ## 功能特色
 
@@ -71,6 +76,6 @@ OP(operator & open)是一个开源插件(类似大漠插件).主要功能有:Win
 
 
 ## 参考
----
-[1] [TSPLUG源码,TC company](https://github.com/gaojunxin/TSPlug) 
-[2] [Kiero](https://github.com/Rebzzel/kiero.git)  
+
+> [1] [TSPLUG源码,TC company](https://github.com/gaojunxin/TSPlug) 
+> [2] [Kiero](https://github.com/Rebzzel/kiero.git)  
