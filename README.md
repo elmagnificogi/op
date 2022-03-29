@@ -72,5 +72,5 @@ OP(operator & open)是一个开源插件(类似大漠插件).主要功能有:Win
 
 ## 参考
 ---
-[1] TSPLUG源码,TC company  
+[1] [TSPLUG源码,TC company](https://github.com/gaojunxin/TSPlug) 
 [2] [Kiero](https://github.com/Rebzzel/kiero.git)  
